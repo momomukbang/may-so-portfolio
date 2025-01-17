@@ -719,6 +719,15 @@ body {
     opacity: 0.7;
 }
 
+.skills-section-link {
+    text-decoration: none;
+    color: inherit;
+}
+
+.skills-section-link:hover {
+    cursor: pointer;
+}
+
 .lets-connect {
     background: transparent;
     backdrop-filter: none;
