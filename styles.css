@@ -575,6 +575,19 @@ body {
     margin-top: auto;
 }
 
+
+.project-card-link {
+    text-decoration: none;
+}
+
+.project-card-link:link,
+.project-card-link:visited,
+.project-card-link:hover,
+.project-card-link:active {
+    text-decoration: none;
+    outline: none;
+}
+
 .project-image {
     position: relative;
     width: 450px;
