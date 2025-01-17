@@ -594,6 +594,18 @@ body {
     transform: scale(1.05);
 }
 
+.project-card-link {
+    text-decoration: none;
+}
+
+.project-card-link:link,
+.project-card-link:visited,
+.project-card-link:hover,
+.project-card-link:active {
+    text-decoration: none;
+    outline: none;
+}
+
 @media (max-width: 1024px) {
     .project-card {
         grid-template-columns: 1fr;
