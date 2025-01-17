@@ -760,7 +760,7 @@ body {
 .lets-connect-title::after {
     content: '';
     position: absolute;
-    bottom: -0.5rem;
+    bottom: 0.5rem;
     left: 50%;
     transform: translateX(-50%);
     width: 80px;
