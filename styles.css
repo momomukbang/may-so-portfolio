@@ -1260,6 +1260,15 @@ body {
     line-height: 1.4;
 }
 
+.lets-connect-link {
+    text-decoration: none;
+    color: inherit;
+}
+
+.lets-connect-link:hover {
+    cursor: pointer;
+}
+
 .social-links {
     display: flex;
     gap: 1rem;
